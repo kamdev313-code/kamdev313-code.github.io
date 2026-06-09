@@ -1,4 +1,11 @@
 google.com, pub-1152970942567778, DIRECT, f08c47fec0942fa0
+pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 27538, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 905340553, RESELLER
+bluexad.ai, 1996418805747683328, RESELLER
+pubnative.net, 1017792, RESELLER, d641df8625486a7b
+video.unrulymedia.com, 290726769, RESELLER
+pubmatic.com, 166335, RESELLER, 5d62403b186f2ace
 inmobi.com, 227b34988a954baca3263b24538851c2, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
